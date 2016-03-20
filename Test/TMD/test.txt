@@ -1,0 +1,32 @@
+4
+tolong kirim tralala pasukan
+4
+4
+3
+2
+1
+2
+----------------------------
+10
+tolong kirim pasukan tralala masuk berita kosong matamata aman tahan
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2
+
+opushonStr[i] != opushonStr[sumInt-1]
+dan
+(strcmp(opushonStr[sumInt-1], "tolong") 
+
+
+else{
+						printf("");
+					}
