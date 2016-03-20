@@ -1,0 +1,6 @@
+Isi dari fungsi5:
+
+menghitung nilai yang didapat dengan metode soal LJK
+saat compare:
+jika benar +2
+jika salah -1

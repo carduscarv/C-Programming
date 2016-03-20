@@ -1,0 +1,2 @@
+Isi Fungsi 4:
+menghitung jumlah angka yang genap

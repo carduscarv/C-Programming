@@ -1,0 +1,4 @@
+Isi Fungsi 1:
+-Print ada berapa jumlah huruf a
+-Pertambahan 2 variabel integer
+-Hitung jumlah semua angka yang dilooping

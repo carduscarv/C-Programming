@@ -1,0 +1,4 @@
+Isi fungsi 6:
+menghitung jumlah string yang palindrom
+jika semuanya palindrom katakan "valid"
+jika tidak "tidak valid, karena ..."

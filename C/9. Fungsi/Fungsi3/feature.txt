@@ -1,0 +1,2 @@
+Isi fungsi 3
+Menghitung jumlah huruf vokal dalam array of string, lalu print string sesuai jumlah huruf tersebut

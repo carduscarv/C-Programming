@@ -1,0 +1,3 @@
+Isi fitur 2:
+-Print nilai Max
+-Print nilai Max*nilai Min
